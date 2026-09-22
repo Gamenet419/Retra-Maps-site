@@ -1,0 +1,99 @@
+{
+  "site": {
+    "hero_lede": "Two terrain packs for Unreal Engine 5, Unity, Blender and Houdini: a glacier cirque and an 8 km × 8 km alpine landscape.",
+    "products_lede": "Two alpine terrain packs with 8K heightmaps for Unreal Engine 5, Unity, Blender and Houdini. Each pack is bought on its store listing."
+  },
+  "products": [
+    {
+      "id": "amp-02",
+      "short_code": "02",
+      "title": "AMP 02: Alpine Glacier Cirque",
+      "short_title": "AMP 02",
+      "card_blurb": "Glacier and non-glacier versions, 8K heightmaps, 12 masks and 8K textures.",
+      "lede": "A glacier cirque terrain in two versions, with 8K heightmaps for each engine, a full set of masks, and textures.",
+      "hero": {
+        "src": "assets/amp02-hero.jpg",
+        "alt": "Sunset light on a snow-covered glacier cirque: a jagged central peak above a small lake, with pine forest in the foreground.",
+        "width": 2400,
+        "height": 1026,
+        "object_position": "72% 50%"
+      },
+      "specs": [
+        { "label": "Versions", "value": "Glacier and non-glacier" },
+        { "label": "Meshes", "value": "14 FBX and OBJ meshes, 7 LODs per version, from about 26 million down to 6,400 vertices" },
+        { "label": "Heightmaps", "value": "EXR 32-bit (8192), R16 for Unreal Engine 5 (8129), RAW for Unity (8193)" },
+        { "label": "Masks", "value": "12 terrain masks, 16-bit TIFF, 8192 × 8192" },
+        { "label": "Textures", "value": "8 textures and 2 normal maps at 8192 × 8192" },
+        { "label": "Works with", "value": "Unreal Engine 5, Unity HDRP and URP, Blender, Houdini" }
+      ],
+      "links": {
+        "fab": "https://www.fab.com/listings/62361bb5-271c-4175-a9d2-19b5cc19da9e",
+        "turbosquid": "https://www.turbosquid.com/3d-models/alpine-glacier-cirque-3d-model-2622062",
+        "artstation": "https://www.artstation.com/david_okoi",
+        "x": "https://x.com/Retra_maps"
+      },
+      "gallery_note": "Select an image to view it larger. Arrow keys move between images. Some renders may show elements, such as trees or water, that are not part of the download. The included files are listed above and on the store listing.",
+      "gallery": [
+        { "src": "assets/amp02-render-01.jpg", "thumb": "assets/thumbs/amp02-render-01.jpg", "alt": "Untextured terrain preview looking across snow-covered ground toward a shadowed rock wall." },
+        { "src": "assets/amp02-render-02.jpg", "thumb": "assets/thumbs/amp02-render-02.jpg", "alt": "Untextured terrain preview of the cirque: a sunlit ridge on the left, a shadowed basin, and the main peak on the right." },
+        { "src": "assets/amp02-render-03.jpg", "thumb": "assets/thumbs/amp02-render-03.jpg", "alt": "Terrain preview from a low angle: the main peak rises above a shadowed basin, with a rocky ridge in the left foreground." },
+        { "src": "assets/amp02-render-04.jpg", "thumb": "assets/thumbs/amp02-render-04.jpg", "alt": "Terrain preview of the cirque from the left rim, with the peak centered above the shadowed basin." },
+        { "src": "assets/amp02-render-05.jpg", "thumb": "assets/thumbs/amp02-render-05.jpg", "alt": "Terrain preview with a bright snow slope on the left leading toward the peak on the right and the basin in shadow." },
+        { "src": "assets/amp02-render-06.jpg", "thumb": "assets/thumbs/amp02-render-06.jpg", "alt": "Terrain preview with green forest and a small pale lake on the basin floor below the peak." },
+        { "src": "assets/amp02-render-07.jpg", "thumb": "assets/thumbs/amp02-render-07.jpg", "alt": "Terrain preview with a rocky ridge in the left foreground and a forested valley with a lake beyond it." },
+        { "src": "assets/amp02-render-08.jpg", "thumb": "assets/thumbs/amp02-render-08.jpg", "alt": "Terrain preview with forest and a lake on the valley floor and a large rock mass in the right foreground." },
+        { "src": "assets/amp02-render-09.jpg", "thumb": "assets/thumbs/amp02-render-09.jpg", "alt": "Wide terrain preview of a forested valley and lake below the cirque, with a large rock mass at right." },
+        { "src": "assets/amp02-render-10.jpg", "thumb": "assets/thumbs/amp02-render-10.jpg", "alt": "Terrain preview from the valley: a large ridge at left, forest and a lake at right, and the peak in the distance." }
+      ],
+      "video": null,
+      "share_post": "AMP 02 is live: Alpine Glacier Cirque.\n\nArt-directed glacier basin\nIce + non-glacier versions\n7 LODs (26M to 6.4k verts)\n8K textures + full mask set\n\nhttps://www.fab.com/listings/62361bb5-271c-4175-a9d2-19b5cc19da9e\n\n#UnrealEngine #UE5 #GameDev #EnvironmentArt #Alpine #TerrainArt",
+      "layout": "normal"
+    },
+    {
+      "id": "amp-01",
+      "short_code": "01",
+      "title": "AMP 01: Large Scale 8K Alpine Landscape",
+      "short_title": "AMP 01",
+      "card_blurb": "An 8 km × 8 km basin with snow and non-snow versions, 7 LODs and 12 masks.",
+      "lede": "An 8 km × 8 km alpine basin with snow and bare-rock versions, a full LOD chain, and heightmaps ready for the engine you use.",
+      "hero": {
+        "src": "assets/amp01-hero.jpg",
+        "alt": "Sunlit alpine basin with a brown valley floor and snow-streaked mountain ranges on both sides under a cloudy sky.",
+        "width": 1920,
+        "height": 1081,
+        "object_position": null
+      },
+      "specs": [
+        { "label": "Size", "value": "8 km × 8 km" },
+        { "label": "Versions", "value": "Snow and non-snow" },
+        { "label": "Meshes", "value": "7 LODs per version, from about 4 million down to 961 vertices" },
+        { "label": "Heightmaps", "value": "EXR, R16 and RAW at 8K" },
+        { "label": "Masks", "value": "12 terrain masks and a 32-bit normal map" },
+        { "label": "Works with", "value": "Unreal Engine 5, Unity HDRP and URP, Blender, Houdini" }
+      ],
+      "links": {
+        "fab": "https://www.fab.com/listings/5b5927c0-c6ef-4483-966f-93c75d411ef3",
+        "turbosquid": "https://www.turbosquid.com/Search/Artists/Retra-Maps",
+        "artstation": "https://www.artstation.com/david_okoi",
+        "x": "https://x.com/Retra_maps"
+      },
+      "gallery_note": "Select an image to view it larger. Arrow keys move between images.",
+      "gallery": [
+        { "src": "assets/amp01-render-01.jpg", "thumb": "assets/thumbs/amp01-render-01.jpg", "alt": "Aerial view over a wide snow-covered valley floor with jagged ridges in the distance." },
+        { "src": "assets/amp01-render-02.jpg", "thumb": "assets/thumbs/amp01-render-02.jpg", "alt": "Low view of rolling snow mounds with a ridge line behind them." },
+        { "src": "assets/amp01-render-03.jpg", "thumb": "assets/thumbs/amp01-render-03.jpg", "alt": "A snow-covered valley narrowing between two ridged mountain slopes." },
+        { "src": "assets/amp01-render-04.jpg", "thumb": "assets/thumbs/amp01-render-04.jpg", "alt": "Looking down on steep, heavily eroded ridges that close in on a narrow snowy valley." },
+        { "src": "assets/amp01-render-05.jpg", "thumb": "assets/thumbs/amp01-render-05.jpg", "alt": "A snowy valley with a small peak in the lower right foreground and mountain ranges on both sides." },
+        { "src": "assets/amp01-render-06.jpg", "thumb": "assets/thumbs/amp01-render-06.jpg", "alt": "A smooth snow plain in the foreground with a rugged mountain range along the horizon." }
+      ],
+      "video": {
+        "title": "AMP 01 scale comparison",
+        "src": "assets/amp01-scale-comparison.mp4",
+        "poster": "assets/amp01-scale-poster.jpg",
+        "description": "A 15-second clip. A white mannequin stands on the AMP 01 landscape for scale, then the camera rises and pulls back to show the snow-capped ranges of the 8 km × 8 km terrain."
+      },
+      "share_post": "Just dropped AMP 01: Large Scale 8K Alpine Landscape.\n\n8 km × 8 km terrain\nSnow + non-snow variants\nFull 7-LOD chain\nEngine-ready heightmaps for UE5 & Unity\n\nhttps://www.fab.com/listings/5b5927c0-c6ef-4483-966f-93c75d411ef3\n\n#UnrealEngine #UE5 #Unity3D #GameDev #EnvironmentArt #Terrain",
+      "layout": "reverse"
+    }
+  ]
+}
